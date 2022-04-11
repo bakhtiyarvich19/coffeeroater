@@ -55,7 +55,7 @@ body{
 /* HEADER */
 
 .site-header-container{
-    padding-top: 20px;
+    padding-top: 45px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -383,7 +383,7 @@ body{
     display: flex;
     align-items: center;
     text-align: center;
-    height: 120px;
+    padding: 47px;
     padding-left: 85px;
 }
 .site-footer-list{
